@@ -1,6 +1,10 @@
 /* ESERCIZIO 1
  Scrivi una funzione di nome "area", che riceve due parametri (l1, l2) e calcola l'area del rettangolo associato.
-*/
+*/   
+function area (l1,l2) {
+    return l1 * l2; 
+} 
+console.log (area (3,5));
 
 /* SCRIVI QUI LA TUA RISPOSTA */
 
